@@ -86,8 +86,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
-          >
-            namankaushik2@gmail.com
+          >namankaushik2@gmail.com
           </a>
         </h6>
       </div>
